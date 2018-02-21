@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 10 13:27:51 2018
+@author: Andreas Spielhofer
+"""
+
 import calibration as arduino
 import time
 
