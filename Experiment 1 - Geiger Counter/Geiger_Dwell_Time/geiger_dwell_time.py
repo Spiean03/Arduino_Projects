@@ -1,3 +1,8 @@
+'''
+@author: Andreas Spielhofer
+'''
+
+
 import matplotlib.pyplot as p
 import numpy as n
 import serial
