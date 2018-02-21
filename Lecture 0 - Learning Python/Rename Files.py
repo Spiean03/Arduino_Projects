@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 19 15:34:39 2017
 
-@author: Administrator
+@author: Andreas
 """
 
 import os
