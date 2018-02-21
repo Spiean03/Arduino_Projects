@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jan 16 09:21:34 2017
-
-@author: mark.orchard-webb
 """
 
 import matplotlib.pyplot as p
