@@ -4,6 +4,7 @@
 Created on Mon Jan 22 17:58:27 2018
 
 @author: aaron.mascaro
+@author: Andreas Spielhofer
 """
 
 import matplotlib.pyplot as p
