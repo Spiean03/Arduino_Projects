@@ -1,3 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Mar 08 18:18:26 2018
+
+@author:    Andreas Spielhofer
+            Ph.D. Candidate
+            Physics Departement
+            McGill University
+            Montreal, Canada
+@contact:   andreas.spielhofer@mail.mcgill.ca
+"""
+
 import numpy as np
 from scipy.optimize import curve_fit
 import pylab as plt
