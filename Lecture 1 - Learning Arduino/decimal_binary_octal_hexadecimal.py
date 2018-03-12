@@ -52,7 +52,7 @@ Type Specifiers: long, long long, short, unsigned, signed:
                       %Le; same value, scientific annotation
                       %Lg; machine chooses format by itself
   small: used to declare small values (16bits = 2^15-1 = 32'767), conserving memory space
-                      %hi; decima
+                      %hi; decimal
                       %ho; octal
                       %hx; hexadecimal
   unsigned: only positive numbers. Either use "unsigned" or a "U" at the end
