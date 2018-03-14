@@ -45,13 +45,13 @@ Type Specifiers: long, long long, short, unsigned, signed:
                       %li; used for decimal format
                       %lo; octal format
                       %lx; hexadecimal format
-  long long maxAllowedStorage;  extend accuracy to be at least 64 bit wide (2^63-1 = 9.22337e18)
+  long long maxAllowedStorage;  extend accuracy to be at least 64 bit wide (2^64-1 ~ 1.8446744e+19)
                       %lli; print value
   same for double declaration:  long double USdeficit = 1.32e7L;  
                       %Lf; displays long double
                       %Le; same value, scientific annotation
                       %Lg; machine chooses format by itself
-  small: used to declare small values (16bits = 2^15-1 = 32'767), conserving memory space
+  small: used to declare small values (16bits = 2^16-1 = 65'535), conserving memory space
                       %hi; decimal
                       %ho; octal
                       %hx; hexadecimal
